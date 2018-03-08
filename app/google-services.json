@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "742676912705",
+    "firebase_url": "https://transporttracker-365c2.firebaseio.com",
+    "project_id": "transporttracker-365c2",
+    "storage_bucket": "transporttracker-365c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742676912705:android:abc945c8af29cc61",
+        "android_client_info": {
+          "package_name": "com.example.bhavana.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742676912705-m0vuj3uled1v70olqscktrrv7du2a3cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavana.transporttracker",
+            "certificate_hash": "44e7042a0e05a1ed99122dcb016e60609b551987"
+          }
+        },
+        {
+          "client_id": "742676912705-dvtlc9j9vf38g61a8s2360ugf36ii487.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22IOW6y3oIKO7aWT6eeLddy_4QhT0E6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742676912705-dvtlc9j9vf38g61a8s2360ugf36ii487.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
